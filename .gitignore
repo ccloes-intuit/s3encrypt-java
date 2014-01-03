@@ -1,7 +1,10 @@
+AwsCredentials.properties
 *.class
 *.properties
+.classpath
+.settings
+bin
 
 # Package Files #
-*.jar
 *.war
 *.ear
